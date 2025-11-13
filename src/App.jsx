@@ -12,10 +12,11 @@ function MenuBar () {
   return (
     <>
       <ul className="HomeMenuBar">
-        <li className="HomeMenuBarListItems">Home</li>
-        <li className="HomeMenuBarListItems">Home</li>
-        <li className="HomeMenuBarListItems">Home</li>
-        <li className="HomeMenuBarListItems"><a href="#" className="HomeMenuBarListItemsARef">Home</a></li>
+          <li className="HomeMenuBarListItems"><a href="#" className="HomeMenuBarListItemsARef">Home</a></li>
+          <li className="HomeMenuBarListItems"><a href="#" className="HomeMenuBarListItemsARef">Home</a></li>
+          <li className="HomeMenuBarListItems"><a href="#" className="HomeMenuBarListItemsARef">Home</a></li>
+          <li className="HomeMenuBarListItems"><a href="#" className="HomeMenuBarListItemsARef">Home</a></li>
+          <li className="HomeMenuBarListItems"><a href="#" className="HomeMenuBarListItemsARef">Home</a></li>
       </ul>
     </>
   )
