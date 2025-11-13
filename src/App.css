@@ -1,9 +1,40 @@
+.WelcomeBannerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.HomeMenuBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    background-color: antiquewhite;
+    gap: 30px;
+}
+
+.HomeMenuBarListItems {
+    color: black;
+}
+
+.HomeMenuBarListItemsARef {
+    text-decoration: none;
+    color: black;
+}
+
 .button-counter {
     width:  200px;
     height: 200px;
     border: none;
     border-radius: 50%;
-    background-color:rgb(107, 171, 227) ;
+    background-color:rgb(107, 171, 227);
+    cursor: pointer;
+}
+
+.button-counter:hover{
+    background-color: rgb(131, 182, 225);
 }
 
 .line-one-arabic {
