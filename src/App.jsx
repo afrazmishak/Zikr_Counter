@@ -40,8 +40,8 @@ function Count() {
 function App() {
   return (
     <>
-      <WelcomeBanner />
-      <MenuBar />
+      <WelcomeBanner/>
+      <MenuBar/>
     </>
   )
 }
