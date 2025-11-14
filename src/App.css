@@ -17,23 +17,23 @@
     height: 60px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
     margin-bottom: 0;
-    padding: 0;
-    border: none;
+    padding: 5px 10px;
+    border: 1px solid #d9d6cf;
     border-radius: 20px;
     background-color: white;
 }
 
 .HomeMenuBarListItems{
-    background-color: transparent;
-    padding: 10px 12px;
+    background-color: #E2AB3C;
+    padding: 10px 13px;
     border-radius: 25px;
 }
 
 .HomeMenuBarListItems:hover{
-    background-color: #e2ab3c;
+    background-color: transparent;
     padding: 10px 12px;
+    border: 1px solid #E2AB3C;
     border-radius: 25px;
 }
 
@@ -41,8 +41,16 @@
     text-decoration: none;
     color: black;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 18px;
     font-family: sans-serif;
+}
+
+.AboutIslamContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
 }
 
 .button-counter {
