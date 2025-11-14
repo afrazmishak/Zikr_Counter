@@ -2,4 +2,12 @@ body {
     margin: 0;
     padding: 0;
     background-color: #F5F7FA;
+    overflow-x: hidden;
+    font-family: "Nunito";
+}
+
+@font-face {
+    font-family: "Nunito";
+    src: url(./assets/fonts/Nunito-Regular.ttf) format("truetype");
+    font-weight: normal;
 }
