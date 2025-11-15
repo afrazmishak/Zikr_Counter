@@ -15,7 +15,7 @@
     list-style: none;
     width: 500px;
     height: 55px;
-    margin: 12px auto;
+    margin: 8px auto;
     padding: 5px 0;
     border: 1px solid #d9d6cf;
     border-radius: 50px;
@@ -51,7 +51,6 @@
     display: flex;
     margin: 0;
     padding: 20px 0;
-    background-color: #E2AB3C;
     height: 550px;
 }
 
@@ -75,13 +74,27 @@
     font-size: 16px;
 }
 
-.Heading {
+.Heading1 {
     margin-top: 15px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+    font-size: 22px;
+}
+
+.Heading2 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 20px;
 }
 
 .Paragraph {
     font-size: 17px;
+}
+
+.Paragraph1, .Paragraph2, .Paragraph3, .Paragraph4, .Paragraph5,.Paragraph6 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 6px;
+    padding-bottom: 12px;
 }
 
 .button-counter {
