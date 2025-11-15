@@ -48,12 +48,6 @@ function AboutIslam() {
             <p className="Paragraph Paragraph6">And Muhammad ﷺ is His final messenger, sent to teach humanity how to live with purpose, mercy, and justice.</p>
           </div>
         </div>
-
-        <div className="AboutIslamContainerTwo">
-          <div className="LeftSideContainerTwo">
-            
-          </div>
-        </div>
       </section>
     </>
   )
