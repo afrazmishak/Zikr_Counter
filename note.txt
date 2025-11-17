@@ -22,3 +22,32 @@
           </div>
         </div>
       </section>
+
+
+<div className="TopicOne">
+          <h2 className="TopicOneHeadline">Understanding the Basics of Islam</h2>
+          <h3 className="TopicOnePoints">1. The Oneness of Allah (Tawheed)</h3>
+          <p className="TopicOneParagraph">Islam begins with a very simple and beautiful message: there is only one God "Allah". He created everything, knows everything, and takes care of everyone. He has no partners, no children, and no weaknesses. He doesn’t get tired, hungry, or forget anything. Allah is perfect in His knowledge, wisdom, mercy, and power. Believing in one God gives a person peace because they know exactly who to turn to when they are scared, sad, lost, or thankful. Tawheed teaches us that we worship only Allah, pray only to Him, and rely only on Him, because He is the only One who truly controls everything.</p>
+          <br />
+          <h3 className="TopicOnePoints">2. The Qur’an</h3>
+          <p className="TopicOneParagraph">The Qur’an is the holy book of Islam. Muslims believe it is the exact word of Allah, revealed to Prophet Muhammad ﷺ over 23 years. It is a book full of guidance, wisdom, and light. The Qur’an teaches us how to live a good life, how to treat people with kindness, how to stay patient during problems, and how to be grateful for blessings. It also tells stories of earlier prophets like Adam, Noah, Moses, and Jesus (peace be upon them). The Qur’an has been preserved perfectly from the day it was revealed, letter by letter, and millions of Muslims memorise it completely. It is not just a book to read; it is a book to understand, reflect on, and live by.</p>
+          <br />
+          <h3 className="TopicOnePoints">3. Prophet Muhammad ﷺ</h3>
+          <p className="TopicOneParagraph">Prophet Muhammad ﷺ is the final messenger of Allah. He was sent to guide all people to the truth. His life is a complete example of how to live with honesty, kindness, patience, and mercy. He never lied, hurt anyone, or took revenge out of anger. Even those who hated him said he was trustworthy. He taught people to worship Allah alone, to help the poor, to forgive others, and to be good family members. His character was so gentle and loving that even his enemies were moved by his kindness. Muslims follow his teachings and lifestyle because he showed us how to live in the best way.</p>
+          <br />
+          <h3 className="TopicOnePoints">4. The Five Pillars of Islam</h3>
+          <p className="TopicOneParagraph">Islam has five main practices that build a strong foundation for a Muslim’s life.</p>
+          
+          <ul className="TopicOneItems">
+            <li><span className="TopicOneBoldItems">First</span>, the Shahadah is the declaration that there is only one God and Muhammad ﷺ is His messenger.</li>
+            <li><span className="TopicOneBoldItems">Second</span>, Muslims pray five times a day to stay connected with Allah.</li>
+            <li><span className="TopicOneBoldItems">Third</span>, they give Zakat, a small part of their money to help those in need.</li>
+            <li><span className="TopicOneBoldItems">Fourth</span>, they fast in Ramadan to learn patience, self-control, and gratitude.</li>
+            <li><span className="TopicOneBoldItems">Fifth</span>, those who are able make the journey of Hajj to Makkah at least once in their life.</li>
+          </ul>
+          <p className="TopicOneParagraph">These pillars help a believer grow spiritually, become disciplined, and stay close to Allah.</p>
+          <br />
+          <h3 className="TopicOnePoints">5. The Six Pillars of Faith</h3>
+          <p className="TopicOneParagraph">Faith in Islam is based on six important beliefs.</p>
+          <p className="TopicOneParagraph">Muslims believe in Allah, the Creator; in angels, who are His obedient servants; in holy books such as the Qur’an; in prophets who were sent to guide humanity; in the Day of Judgment, when everyone will be rewarded or questioned for their actions; and in Divine Decree (Qadr), meaning that Allah knows everything that happens and nothing is outside His control. These beliefs give a Muslim a strong heart, a calm mind, and trust in Allah during every situation, good or difficult.</p>
+        </div>

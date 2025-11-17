@@ -45,7 +45,7 @@
 .AboutIslam {
     width: 85%;
     height: fit-content;
-    margin: 10px auto;
+    margin: 16px auto;
 }
 
 .AboutIslamContainer {
@@ -73,7 +73,6 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    height: max-content;
     font-size: 16px;
 }
 
@@ -86,17 +85,44 @@
 .Paragraph{
     margin-top: 0;
     font-size: 18px;
+    padding-right: 5%;
+    line-height: 35px;
 }
 
-.Unlisted {
-    margin-top: 0;
-    list-style:square ;
+.IsalmContext{
+    padding-left: 79px;
 }
 
-.Heading2 {
+hr {
     margin-top: 20px;
-    margin-bottom: 15px;
-    font-size: 27px;
+}
+
+.TopicOneHeadline {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.TopicOnePoints {
+    display: flex;
+    justify-content: center;
+}
+
+.TopicOneParagraph {
+    text-align: center;
+    line-height: 35px;
+}
+
+.TopicOneItems {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    list-style:none ;
+    line-height: 35px;
+}
+
+.TopicOneBoldItems {
+    font-weight: bold;
 }
 
 .button-counter {
