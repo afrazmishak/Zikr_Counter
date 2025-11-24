@@ -1,16 +1,6 @@
 import "./App.css";
 
-function WelcomeBanner() {
-  return (
-    <div className="WelcomeBannerContainer" id="WelcomeBannerContainer">
-      <input
-        type="image"
-        src="./src/assets/images/Assalamu Alaikum Banner.png"
-        alt="Assalamu Alaikum Banner"
-      />
-    </div>
-  );
-}
+///WelcomeBanner
 
 function MenuBar() {
   return (
